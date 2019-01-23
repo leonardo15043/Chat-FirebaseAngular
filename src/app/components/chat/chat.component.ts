@@ -21,7 +21,6 @@ export class ChatComponent implements OnInit {
                   this.elemento.scrollTop = this.elemento.scrollHeight;
                 },20);
             });
-
   }
 
   ngOnInit(){
